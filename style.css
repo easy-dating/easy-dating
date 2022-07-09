@@ -1,0 +1,25 @@
+body{
+    font-size: 18px;
+    /* background: rgb(21,32,43);
+    color: #fff; */
+}
+h1 {
+    color: #FF6600;
+}
+h2 {
+    color: green;
+}
+#page {
+    margin: 0 auto;
+    width: 1000px;
+}
+.examples {
+    text-align: center;
+}
+.examples img {
+    width: 800px;
+    border: 10px solid #e6e6e6;
+}
+i {
+    color: blue;
+}
