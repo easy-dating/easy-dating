@@ -21,5 +21,12 @@ h2 {
     border: 10px solid #e6e6e6;
 }
 i {
-    color: blue;
+    color: chocolate;
+}
+span {
+    background: #000;
+    color: #000;
+  }
+span:hover {
+    background: none;
 }
